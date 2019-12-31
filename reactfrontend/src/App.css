@@ -1,0 +1,28 @@
+.PostingForm {
+    padding: 3rem;
+    margin: 1rem;
+}
+
+body{
+  
+    background-image: url( "https://post-phinf.pstatic.net/MjAxNzA0MTBfMTc3/MDAxNDkxODEwOTA5NTQy.Wd4k78Emj8P2aXAejs3hKLtarpBwjKdiy-EsPwffM5kg.gFBZoYd9knY54CIcyGLq_rbaMh_yas-QtJXb8hukt5Eg.JPEG/421112.jpg?type=w1200");
+    background-repeat: no-repeat;
+    background-position: 50% 30px;
+    background-size: 400px 150%;
+    background-color: yellow;
+}
+
+h2{
+    color: navy;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.PostingSet{
+    display: flex;
+   
+    flex-direction: column;
+     align-items: flex-start;
+    
+}
+
